@@ -159,4 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-results
+bigcolor/results/*
+!final_results_multi_c_1024_ema_no_resize_real_gray
+!final_results_multi_c_512_ema_real_gray
