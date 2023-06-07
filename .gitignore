@@ -162,5 +162,6 @@ cython_debug/
 bigcolor/results/*
 !final_results_multi_c_1024_ema_no_resize_real_gray
 !final_results_multi_c_512_ema_real_gray
-
+!final_results_multi_c_1024_ema_upscale
+!final_results_multi_c_1024_ema_upscale_hsinchu
 gray_upscayled
